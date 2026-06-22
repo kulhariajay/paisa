@@ -46,3 +46,6 @@ next-env.d.ts
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Session archive (chat transcript + gstack logs — contains pasted secrets, never commit)
+session-archive/
